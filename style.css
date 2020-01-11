@@ -1,0 +1,117 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+
+body .navbar
+{
+    background-color: #444;
+}
+.join-us form
+{
+    color: #c2c2c2;
+    background-color: rgba(0,0,0,0.3);
+}
+.join-us a
+{
+    color: #e38f42;
+}
+body .navbar a
+{
+    color: #c2c2c2;
+}
+body .navbar a:hover
+{
+    color: #fff;
+}
+.join-us .btn-orange
+{
+    background-color: #e38f42;
+    color: #fff;
+}
+.join-us .btn-moj
+{
+    background-color: #535353;
+    color: #fff;
+}
+
+.join-us
+{
+    background-image: url('https://akademia108.pl/kurs-front-end/form-background.jpg');
+    background-size: cover;
+}
+.join-us form h2{
+    color: #fff;
+}
+
+.join-us form header
+{
+    background-color: rgba(0,0,0,0.15);
+    padding: 20px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.join-us form .fas
+{
+    font-size: 3.5rem;
+}
+
+.join-us form fieldset input,
+.join-us form fieldset textarea
+{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 6px;
+    border-radius: 5px;
+}
+.join-us form fieldset input[type=input] a:hover
+{
+    color: #e39042e3;
+}
+
+.join-us form fieldset
+{
+    padding: 25px;
+}
+
+.join-us form fieldset p
+{
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.join-us .content-holder
+{
+    color: #fff;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.inspire .container
+{
+    padding: 80px 0;
+}
+.inspire .video-holder
+{
+    padding: 30px
+}
+
+.inspire .inspire-holder
+{
+    padding: 30px
+}
+.inspire .inspire-holder a
+{
+    color: #e39042e3;
+}
+
+footer .container
+{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+footer
+{
+    background-color: #f8f8f8 ;
+}
